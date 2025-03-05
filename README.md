@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @drelick
 - 👀 I’m interested in Financial Research & Data Science 
-- 🌱 I’m currently learning token design,quant applicatons with python and researching financial smart contracts.
+- 🌱 I’m currently in grad school and more on jupyter 
 - 💞️ I’m looking to collaborate on projects in quant finance, token designs and technical financial research 
-- 📫 How to reach me Femi@savecoins.co
+- 📫 How to reach me Fbabatunde@edu.hse.ru
 check my research on http://drelick.substack.com.
 <!---
 drelick/drelick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
